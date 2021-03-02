@@ -9,7 +9,6 @@
 
 ## The Mission
 
-[M-ighty](http://www.m-ighty.com/), a healthcare tech consultancy company, has contracted [Arinti](https://arinti.ai/), an AI consultancy company to analyse an [early warning score](https://en.wikipedia.org/wiki/Early_warning_score) [database](./20200124_ews_observations) containing various data hospital patients.
 Your mission is to:
 - organise and preprocess the data so that it can be use for ML
 - use regression analysis on the individual patients (that have enough data on them) to discover their EWS trend
